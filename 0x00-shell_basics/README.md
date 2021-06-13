@@ -1,0 +1,1 @@
+este archivo contiene comandos de shell
